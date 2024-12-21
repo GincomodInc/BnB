@@ -1,5 +1,5 @@
 # B&B                                                                                               
-This is a GitHub page for my upcoming album "B&B"
+This is a GitHub page for my band's (Arkay Seven) upcoming album "B&B"
 
 I will monthly publish updates on the project's status and advances
 
@@ -14,7 +14,7 @@ If you want to use these stems for your own project you can either branch this r
 
 Version 1.0 will be the final version of this project
 
-I'm 100% open to suggestion by people and if you have any doubts then mail
+We're 100% open to suggestion by people and if you have any doubts then mail
 me at helpmodinc@gmail.com (or publish an issue)
 
 
